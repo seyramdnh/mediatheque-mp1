@@ -63,4 +63,4 @@ mediatheque-mp1/
 | `e()`, `libelleCategorie()`, `formaterPrix()`, `obtenirCategories()`, `dateDuJour()` | Fonctions utilitaires |
 
 ## Auteur
-NOM Prénoms – Filière – IPNET Institute of Technology
+DONHISSOU Seyram Fabrice - Design numérique multimédia et marketing digital  – IPNET Institute of Technology
